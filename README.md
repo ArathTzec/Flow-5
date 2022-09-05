@@ -28,4 +28,6 @@ Para poder realizar necesario es necesario tener instalado:
 
 ## Resultados
 Una vez completados los pasos anteriores te dirigirá al Dashboard, que es la interfaz donde ver la temperatura y humedad dependiendo del mensaje que envies, trata de enviar el codigo que se encuentra en notas. Tambien recíbiras los datos de los demas compañeros
-![](https://github.com/ArathTzec/Flow-5/blob/main/Dashboard-Flow5.pngraw=true)
+![](https://github.com/ArathTzec/Flow-5/blob/main/Dashboard-Flow5.png?raw=true)
+
+Puedes ver los nodos en el siguiente link [Nodos-Flow5](https://github.com/ArathTzec/Flow-5/blob/main/Nodos%20node%20red%20flow%205-1.png)
